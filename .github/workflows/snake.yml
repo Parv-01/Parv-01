@@ -2,11 +2,17 @@ name: Generate Contribution Snake
 
 on:
   schedule:
+    # Runs every 12 hours — keeps the snake fresh
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+# Without this block, GITHUB_TOKEN is read-only by default on new repos.
+# This is the root cause of the 403 "Permission denied" error.
+permissions:
+  contents: write
 
 jobs:
   generate:
