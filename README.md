@@ -351,13 +351,13 @@ Battle_Cry:      "I will keep moving forward."
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Parv-01&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=cc0000&icon_color=ff6600&text_color=ffffff&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-parv-01.vercel.app/api?username=Parv-01&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=cc0000&icon_color=ff6600&text_color=ffffff&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true"
     height="195"
     alt="Parv's GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parv-01&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&border_radius=10&langs_count=10"
+    src="https://github-readme-stats-parv-01.vercel.app/api/top-langs/?username=Parv-01&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&border_radius=10&langs_count=10"
     height="195"
     alt="Top Languages"
   />
@@ -376,7 +376,7 @@ Battle_Cry:      "I will keep moving forward."
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Parv-01&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=7"
+    src="https://github-profile-trophy-parv-01.vercel.app/?username=Parv-01&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=7"
     alt="GitHub Trophies"
   />
 </div>
